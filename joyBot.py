@@ -1,10 +1,10 @@
 import tweepy
 #import config
 import logging
-CONSUMER_KEY = "rR1a8MuCyAsPhnxVLANrvbXlP"
-CONSUMER_SECRET = "gTAZ7bvfFaMvQGf9z1WeJbU8VaJAziCDIgCGJwA5GGqvtVJPXs"
-ACCESS_TOKEN = "576724631-vThh3Cbb9S4qGSWcBDRE0sd1hWycdsqE2u2hk7In"
-ACCESS_TOKEN_SECRET = "XJL8oCuvX1nS4YnVWqyLUU7nFRDu8oB1k1NhW1JeYBtk0"
+CONSUMER_KEY = ""
+CONSUMER_SECRET = ""
+ACCESS_TOKEN = ""
+ACCESS_TOKEN_SECRET = ""
 
 #Setup authentication
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
